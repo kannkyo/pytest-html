@@ -7,7 +7,7 @@ verify_ssl = true
 pytest = "*"
 tox = "*"
 flake8 = "==4.0.1" # also bump this in .pre-commit-config.yaml
-black = "==22.3.0" # also bump this in .pre-commit-config.yaml
+black = "==24.3.0" # also bump this in .pre-commit-config.yaml
 pre-commit = "*"
 pytest-rerunfailures = "*"
 
